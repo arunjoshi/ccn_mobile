@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498121721675",
+    "project_id": "city-chief-admin-7f803",
+    "storage_bucket": "city-chief-admin-7f803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498121721675:android:f8549654e32e2ab70acace",
+        "android_client_info": {
+          "package_name": "com.app.city_chief"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498121721675-8k3vp7dfa9qbpr9kl5dfovl69s981dt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.city_chief",
+            "certificate_hash": "b19a4b793c8dfbb9e9118d575a8b5d734bccb36c"
+          }
+        },
+        {
+          "client_id": "498121721675-lsebmflorl2kue3ombrgkapuqsgqgl1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMXh3YVozwV_OMJX0AQadAkAFgYn4g90c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498121721675-lsebmflorl2kue3ombrgkapuqsgqgl1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

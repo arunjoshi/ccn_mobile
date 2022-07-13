@@ -1,0 +1,142 @@
+{
+
+    "home": "होम",
+    "videos": "विडियो",
+    "categories" : "कैटगरी",
+    "profile": "प्रोफ़ाइल",
+
+
+    "welcome to" : "वेलकम  टू",
+    "sign in to continue": "आगे बढ़ने के लिए साइन-इन करे",
+    "skip": "स्किप",
+    "done": "डन",
+
+    "intro-title1" : "लेटेस्ट न्यूज खोजे",
+    "intro-title2" : "सबसे पहले नोटिफ़िकेशन पाए",
+    "intro-title3" : "सेव न्यूज",
+    "intro-description1" : "सर्च करे लेटेस्ट न्यूज और दुनिया में होने वाले इवेंट हर मिनट में",
+    "intro-description2" : "सब्सक्राइब करे और हर लेटेस्ट न्यूज पाए ओर अपने दोस्तो के साथ शेयर करें",
+    "intro-description3" : "अपनी मनपसंद खबर पे बुकमार्क, लाइक और कमेंट करे और सोशल मीडिया पे शेयर करें",
+    "get started" : "शुरू करें",
+    "don't have social accounts?" : "कोई भी सोशल मीडिया अकाउंट नहीं?",
+    "continue with email >>" : "ईमेल से आगे बड़े >>",
+
+    "sign up": "साइन अप",
+    "sign in": "साइन इन",
+    "follow the simple steps": "आसान कदमों का पालन करें",
+    "name": "नाम",
+    "already have an account?": "पहले से अकाउंट है?",
+    "forgot password?": "पासवर्ड भूल गए?",
+    "reset your password": "पासवर्ड  रीसेट करें",
+    "submit": "सब्मिट",
+    "sign in successful!" : "साइन-इन सफल हुआ!",
+    "sign up successful!": "साइन-अप सफल हुआ!",
+    "don't have an account?" : "पहले से अकाउंट नही है?",
+
+
+
+    "search news" : "सर्च न्यूज",
+    "popular news" : "लोकप्रिय न्यूज",
+    "recent news" : "हाल ही की न्यूज",
+    "explore": "होम",
+    "featured": "विशेष रुप से प्रदर्शित",
+    "view all" : "सभी देखे",
+
+    "video articles" : "विडियो न्यूज",
+    "most recent": "Most Recent",
+    "most popular": "Most Popular",
+    "no categories found": "कोई कैटगेरी नही है",
+
+
+
+
+
+    "people like this" : "लोगो ने पसंद किया",
+    "you might also like" : "You might also like",
+    "no articles found" : "कोई न्यूज नही",
+
+
+
+    "no internet" : "इंटरनेट कनेक्ट नही हैं!",
+    "no comments found" : "कोई कमेंट नहीं है",
+    "be the first to comment" : "कमेंट करने वाले पहले बने",
+
+
+    "recent searchs" : "अभी अभी खोजा हुआ",
+    "search-description" :  "अपने अभी तक कुछ भी सर्च नहीं किया हैं.\n अभी ट्राई करें - हम आपकी मदद करेंगे!",
+    "we have found" : "हमे मिला है \\ हमने खोजा है",
+    "try again" : "वापिस से ट्राई करें!",
+
+
+
+
+    "bookmarks" : "बुकमार्क",
+    "sign in first" : "पहले साइन इन करें",
+    "sign in to save your favourite articles here" : "अपनी मनपसंद न्यूज को सेव करने के लिए साइन इन करें",
+    "save your favourite articles here" : "अपनी मनपसंद न्यूज को सेव करें",
+
+
+
+
+    "check your internet connection!" : "अपना इंटरनेट कनेक्शन चेक करें!",
+    "something is wrong. please try again." : "कुछ दिक्कत है वापिस ट्राई करें.",
+    "error fb login" : "फेसबुक से लॉगिन करने में दिक्कत हुई कृप्या गूगल से ट्राई करें",
+
+
+
+    "cancel" : "कैंसिल",
+    "no sign in title" : "इस विशेषता को चालू करने के लिए कृप्या साइन इन करें",
+    "no sign in subtitle" : "अपने अभी तक साइन इन नहीं करा हैं इस विशेषता को खोलने के लिए कृप्या पहले साइन इन करें",
+
+
+
+    "comments" : "कमेंट",
+    "write a comment" : "कमेंट लिखे",
+
+
+
+    "no content" : "कोई न्यूज कंटेंट नहीं",
+    "flag this comment" : "इस कमेंट को फ्लैग करें",
+    "unflag this comment" : "इस कमेंट को अनफ्लैग करें",
+    "report" : "रिपोर्ट",
+    "delete" : "डिलीट",
+    "report-info" : "आपकी रिपोर्ट सफलतापूर्वक एडमिन को भेज दिया गई है",
+    "report-info1" : "आपकी रिपोर्ट के लिए शुक्रिया. We will reponse within 24 hours.",
+    "report-guest" : "साइन इन करने की अवयशक्ता है!",
+    "report-guest1" : "किसी भी कमेंट पर रिपोर्ट करने के लिए पहले साइन इन करना होगा",
+    "comment flagged" : "यह कमेंट फ्लैग्ड है!",
+
+
+    "notifications" : "नोटिफ़िकेशन",
+    "notification details" : "नोटिफिकेशन डिटेल्स",
+    "custom notifications": "कस्टम नोटिफिकेशन",
+    "news notifications": "न्यूज नोटिफिकेशन",
+    "no notification": "कोई नही नोटिफिकेशन",
+
+
+
+    "general settings" : "सामान्य सेटिंग",
+    "dark mode" : "डार्क मोड",
+    "login" : "लॉग इन",
+    "get notifications" : "नोटिफ़िकेशन पाए",
+    "contact us" : "संपर्क करें",
+    "rate this app" : "एप्प को रेटिंग दे",
+    "licence" : "लाइसेंस",
+    "privacy policy" : "प्राइवेसी पॉलिसी",
+    "about us" : "परिचय",
+    "logout" : "लॉग आउट",
+    "edit profile" : "प्रोफ़ाइल एडिट करें",
+    "update profile" : "प्रोफ़ाइल अपडेट करें",
+    "updated successfully" : "सफलतापूर्वक अपडेट",
+    "enter new name" : "नया नाम डेल",
+
+    "logout title" : "क्या आप लॉगआउट करना चाहते हैं?",
+    "yes" : "हाँ",
+    "no" : "नहीं",
+
+    "language" : "भाषा",
+    "select language" : "अपनी भाषा चुनें"
+
+
+
+}
