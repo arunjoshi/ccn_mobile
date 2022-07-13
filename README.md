@@ -1,6 +1,6 @@
-# news_app
+# City Chief
 
-A new Flutter application.
+A new Flutter application for ccn network.
 
 ## Getting Started
 
